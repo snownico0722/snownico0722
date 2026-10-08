@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="snownico — 很多项目都始于日常使用中的一个小问题。打磨每一个细节，而不是做粗制滥造的作品。">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b24"/>
+      <stop offset="0.56" stop-color="#10151d"/>
+      <stop offset="1" stop-color="#0c1118"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8aaedc"/>
+      <stop offset="1" stop-color="#537ca8"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect x="1" y="1" width="1198" height="378" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect x="1" y="1" width="1198" height="378" fill="url(#background)"/>
+    <circle cx="1070" cy="70" r="235" fill="#253449" opacity=".12"/>
+    <circle cx="1182" cy="349" r="180" fill="#314a66" opacity=".09"/>
+    <g opacity=".53">
+      <rect x="930" y="83" width="213" height="148" rx="13" fill="#202a38" stroke="#506078" stroke-width="1.4"/>
+      <path d="M930 116H1143" stroke="#55647a" stroke-width="1"/>
+      <circle cx="951" cy="100" r="3.5" fill="#a0b2c9"/>
+      <circle cx="965" cy="100" r="3.5" fill="#a0b2c9" opacity=".57"/>
+      <circle cx="979" cy="100" r="3.5" fill="#a0b2c9" opacity=".31"/>
+      <rect x="949" y="133" width="119" height="8" rx="4" fill="#6a87aa" opacity=".50"/>
+      <rect x="949" y="153" width="162" height="7" rx="3.5" fill="#a6b7cd" opacity=".24"/>
+      <rect x="949" y="173" width="135" height="7" rx="3.5" fill="#a6b7cd" opacity=".17"/>
+      <rect x="897" y="207" width="205" height="104" rx="13" fill="#1d2835" stroke="#56718d" stroke-width="1.4"/>
+      <rect x="917" y="226" width="61" height="65" rx="6" fill="#6f90ba" opacity=".17"/>
+      <rect x="990" y="226" width="88" height="9" rx="4.5" fill="#a6b7cd" opacity=".34"/>
+      <rect x="990" y="247" width="73" height="7" rx="3.5" fill="#a6b7cd" opacity=".21"/>
+      <rect x="990" y="265" width="86" height="7" rx="3.5" fill="#a6b7cd" opacity=".17"/>
+    </g>
+    <rect x="68" y="51" width="15" height="4" rx="2" fill="url(#accent)"/>
+    <text x="96" y="60" fill="#a8b7c9" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="3.1">SOFTWARE / INTERACTION / CREATION</text>
+    <text x="65" y="142" fill="#f5f7fb" font-family="Segoe UI, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-2">snownico</text>
+    <path d="M68 170H819" stroke="#67758a" stroke-opacity=".34" stroke-width="1"/>
+    <g font-family="Noto Sans CJK SC, Microsoft YaHei, PingFang SC, Segoe UI, sans-serif" font-size="21" font-weight="400">
+      <text x="68" y="213" fill="#dce4ef">很多项目都始于日常使用中的一个小问题：</text>
+      <text x="68" y="246" fill="#dce4ef">不够方便、不够自然，或者只是觉得它本来可以做得更好。</text>
+      <text x="68" y="307" fill="#b8c6d7">打磨每一个细节，而不是做粗制滥造的作品。</text>
+      <text x="68" y="340" fill="#b8c6d7">也许在这里你可以找到你喜欢的软件。</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="378" rx="24" fill="none" stroke="#354154" stroke-width="1.5"/>
+</svg>
