@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="snownico：很多项目都始于日常使用中的一个小问题；打磨每一个细节，而不是做粗制滥造的作品。" />
+  <img src="assets/hero.svg" width="100%" alt="snownico：很多项目都始于日常使用中的一个小问题，打磨每一个细节，也许在这里你可以找到喜欢的软件。" />
 </p>
 
 ## 精选作品
@@ -7,78 +7,161 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/snownico0722/PaperTodo"><img src="https://raw.githubusercontent.com/snownico0722/PaperTodo/main/assets/Home.jpg" width="100%" alt="PaperTodo 桌面便签展示" /></a>
-      <h3><a href="https://github.com/snownico0722/PaperTodo">PaperTodo</a></h3>
-      <p>让便签与待办像纸一样留在桌面上。支持 Markdown、边缘胶囊与多屏交互。</p>
-      <sub>Windows 桌面应用 · 原创</sub>
+      <h3><a href="https://github.com/snownico0722/PaperTodo">PaperTodo ↗</a></h3>
+      <p>让便签与待办自然地留在桌面上。支持 Markdown、边缘胶囊与多显示器交互。</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/snownico0722/index-main"><img src="https://raw.githubusercontent.com/snownico0722/index-main/main/screenshots/Styles.gif" width="100%" alt="个人导航首页的主题切换演示" /></a>
-      <h3><a href="https://github.com/snownico0722/index-main">个人导航 · index-main</a></h3>
-      <p>完全本地的浏览器起始页。自由整理站点、切换搜索引擎与多种外观主题。</p>
-      <sub>浏览器首页 · 原创</sub>
+      <h3><a href="https://github.com/snownico0722/index-main">个人导航 · index-main ↗</a></h3>
+      <p>完全本地的浏览器起始页。整理常用站点，自由切换搜索引擎与不同外观主题。</p>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/snownico0722/NeatWin">NeatWin</a></h3>
-      <p>尝试依据窗口间的任务关系辅助排布，不只是把所有窗口机械地塞进网格。</p>
-      <sub>Windows 窗口管理 · 原创</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/snownico0722/NeatWin">NeatWin ↗</a></h3>
+      <p>从窗口之间的任务关系出发，尝试让桌面排布更符合实际使用习惯。</p>
     </td>
-    <td valign="top">
-      <h3><a href="https://github.com/snownico0722/PopTab">PopTab</a></h3>
-      <p>将当前浏览器标签页变为无工具栏、可自由调整大小的独立窗口，保留原有页面状态。</p>
-      <sub>浏览器扩展 · 原创</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/snownico0722/PopTab">PopTab ↗</a></h3>
+      <p>把现有浏览器标签页变成没有工具栏的独立窗口，页面状态原样保留。</p>
     </td>
   </tr>
 </table>
 
 ## 更多项目
 
-### 桌面与系统
+### 01 / 桌面与系统
 
-- **[apkshellext](https://github.com/snownico0722/apkshellext)** — Windows 资源管理器中的 APK 图标、信息及右键功能。`二次开发`
-- **[ScreenToGif-240hz](https://github.com/snownico0722/ScreenToGif-240hz)** — 为 ScreenToGif 扩展 240Hz 高刷新率录屏支持。`二次开发`
-- **[NoFocusLoss](https://github.com/snownico0722/NoFocusLoss)** — 改进部分游戏失去焦点后暂停的问题，并补充中文界面。`二次开发`
-- **[wpf-notifyicon](https://github.com/snownico0722/wpf-notifyicon)** — 改进 WPF 托盘菜单的定位、焦点与弹出行为。`二次开发`
-- **[AutoHotkeyCN](https://github.com/snownico0722/AutoHotkeyCN)** — AutoHotkey v2 简体中文版本整合。`整合 / 汉化`
-- **[AutoHotkeyUX](https://github.com/snownico0722/AutoHotkeyUX)** — AutoHotkey 安装与管理界面中文本地化。`汉化`
-- **[Ahk2Exe](https://github.com/snownico0722/Ahk2Exe)** — AutoHotkey 脚本编译器中文本地化。`汉化`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/apkshellext">apkshellext ↗</a></strong>
+      <p>让 Windows 资源管理器直接显示应用包图标、文件信息和右键操作。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/ScreenToGif-240hz">ScreenToGif-240hz ↗</a></strong>
+      <p>为 ScreenToGif 扩展高刷新率录制能力。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/NoFocusLoss">NoFocusLoss ↗</a></strong>
+      <p>改善部分游戏切到后台后自动暂停的问题。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/wpf-notifyicon">wpf-notifyicon ↗</a></strong>
+      <p>处理 WPF 托盘菜单的定位、焦点和弹出行为。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/AutoHotkeyCN">AutoHotkeyCN ↗</a></strong>
+      <p>AutoHotkey v2 的简体中文发行版本整合。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/AutoHotkeyUX">AutoHotkeyUX ↗</a></strong>
+      <p>AutoHotkey 安装与管理界面的简体中文本地化。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/Ahk2Exe">Ahk2Exe ↗</a></strong>
+      <p>AutoHotkey 脚本编译器的简体中文本地化。</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
-### 浏览器与网页
+### 02 / 浏览器与网页
 
-- **[Bookmarks-to-html](https://github.com/snownico0722/Bookmarks-to-html)** — 将浏览器收藏夹转换为本地静态导航页面。`原创`
-- **[bookmark-bar-default-resetter](https://github.com/snownico0722/bookmark-bar-default-resetter)** — 新建 Chrome 书签时默认回到书签栏。`原创`
-- **[Project-null](https://github.com/snownico0722/Project-null)** — Linux DO 本地身份替换与页面简化脚本。`原创`
-- **[gptopt](https://github.com/snownico0722/gptopt)** — 优化手机横屏远程操作 ChatGPT 的页面交互。`原创`
-- **[prompt-manager](https://github.com/snownico0722/prompt-manager)** — 去除账号与云端依赖的本地提示词管理网站。`二次开发`
-- **[promptmanager](https://github.com/snownico0722/promptmanager)** — 跨站点提示词管理浏览器扩展，改进工作区与存储体验。`二次开发`
-- **[automa](https://github.com/snownico0722/automa)** — 可视化浏览器自动化工具的上游代码。`上游 Fork`
-- **[snownico0722.github.io](https://github.com/snownico0722/snownico0722.github.io)** — 个人静态展示站点源码。`原创`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/Bookmarks-to-html">Bookmarks-to-html ↗</a></strong>
+      <p>将浏览器收藏夹整理成本地静态导航页。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/bookmark-bar-default-resetter">bookmark-bar-default-resetter ↗</a></strong>
+      <p>让 Chrome 新建书签时默认回到书签栏。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/Project-null">Project-null ↗</a></strong>
+      <p>Linux DO 页面的本地身份替换与内容简化脚本。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/gptopt">gptopt ↗</a></strong>
+      <p>优化 ChatGPT 在手机横屏远程操作时的页面体验。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/prompt-manager">prompt-manager ↗</a></strong>
+      <p>使用本地存储的提示词管理网站，无须账号或云端。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/promptmanager">promptmanager ↗</a></strong>
+      <p>跨网站的提示词管理扩展，支持工作区与本地存储。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/automa">automa ↗</a></strong>
+      <p>可视化浏览器自动化扩展的上游代码镜像。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/snownico0722.github.io">snownico0722.github.io ↗</a></strong>
+      <p>个人静态展示站点的前端源码。</p>
+    </td>
+  </tr>
+</table>
 
-### 移动端与生活工具
+### 03 / 移动与日常
 
-- **[PaperTodo-Android](https://github.com/snownico0722/PaperTodo-Android)** — 与 Windows PaperTodo 共享数据的独立 Android 客户端。`原创`
-- **[BeadMaster](https://github.com/snownico0722/BeadMaster)** — 移动端拼豆图纸对位、网格标记与色彩统计工具。`原创`
-- **[Hail_lock](https://github.com/snownico0722/Hail_lock)** — 基于 Hail 改造的 Android 应用冻结与防沉迷工具。`二次开发`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/BeadMaster">BeadMaster ↗</a></strong>
+      <p>手机端拼豆图纸校准、逐格标记和色彩统计工具。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/Hail_lock">Hail_lock ↗</a></strong>
+      <p>基于 Hail 的 Android 应用冻结与防沉迷工具。</p>
+    </td>
+  </tr>
+</table>
 
-### 游戏、影像与创作
+### 04 / 工具、框架与实验
 
-- **[LingYuan_Godot](https://github.com/snownico0722/LingYuan_Godot)** — 《灵渊》，Godot 修仙地宫射击与合作玩法原型。`原创`
-- **[My-project](https://github.com/snownico0722/My-project)** — 《余途》，Unity 合作动作游戏原型。`原创`
-- **[yazawaniko](https://github.com/snownico0722/yazawaniko)** — Godot 透明桌宠窗口与动画交互实验。`实验项目`
-- **[shishi](https://github.com/snownico0722/shishi)** — 《世事》，临洮民俗故事的影像改编与制作工程。`原创`
-- **[mpv-vs](https://github.com/snownico0722/mpv-vs)** — mpv / VapourSynth 脚本整理。`整理 / 归档`
-- **[FishNet](https://github.com/snownico0722/FishNet)** — Unity 联机框架的上游代码。`上游 Fork`
-- **[NPPS4](https://github.com/snownico0722/NPPS4)** — SIF1 私服项目的上游代码。`上游 Fork`
-
-### 开发工具与实验
-
-- **[agent.md](https://github.com/snownico0722/agent.md)** — 轻量的 Agent 开发协作约定与方案问答模板。`原创`
-- **[hookweb](https://github.com/snownico0722/hookweb)** — Android WebView 内核扫描与 LSPosed 相关实验。`实验项目`
-- **[daily-software-kit](https://github.com/snownico0722/daily-software-kit)** — 日常软件配置、代理分流规则及实用脚本整理。`配置整理`
-- **[dufs](https://github.com/snownico0722/dufs)** — 支持 WebDAV 的轻量文件服务器上游代码。`上游 Fork`
-
----
-
-<sub>项目名称可直接进入对应仓库。旁边的标注仅用于说明参与方式；“上游 Fork”不代表对原项目做过功能修改。</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/hookweb">hookweb ↗</a></strong>
+      <p>Android WebView 内核扫描与 LSPosed 相关实验。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/daily-software-kit">daily-software-kit ↗</a></strong>
+      <p>日常软件配置、代理分流规则与实用脚本整理。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/dufs">dufs ↗</a></strong>
+      <p>支持上传、搜索与 WebDAV 的轻量文件服务器上游代码镜像。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/FishNet">FishNet ↗</a></strong>
+      <p>Unity 游戏联机框架的上游代码镜像。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/NPPS4">NPPS4 ↗</a></strong>
+      <p>SIF1 私有服务器项目的上游代码镜像。</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/snownico0722/mpv-vs">mpv-vs ↗</a></strong>
+      <p>为 mpv 整理的 VapourSynth 脚本与相关资料。</p>
+    </td>
+  </tr>
+</table>
