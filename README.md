@@ -30,7 +30,7 @@
 | [**bookmark-bar-default-resetter**](https://github.com/snownico0722/bookmark-bar-default-resetter) · `原创` | 让 Chrome 新建书签时默认返回书签栏的扩展。 |
 | [**Project-null**](https://github.com/snownico0722/Project-null) · `原创` | 用于 Linux DO 的本地身份替换与页面内容简化脚本。 |
 | [**gptopt**](https://github.com/snownico0722/gptopt) · `原创` | 适配手机横屏远程操作 ChatGPT，并提供会话快捷导航。 |
-| [**snownico0722.github.io**](https://github.com/snownico0722/snownico0722.github.io) · `原创` | 个人网站的前端源码，使用 HTML、CSS、SVG 和 JavaScript。 |
+| [**snownico0722.github.io**](https://github.com/snownico0722/snownico0722.github.io) · `原创` | 静态展示站点的前端源码，使用 HTML、CSS、SVG 和 JavaScript。 |
 | [**automa**](https://github.com/snownico0722/automa) · `上游 Fork` | 基于可视化流程的浏览器自动化扩展。 |
 
 ### 提示词工具
