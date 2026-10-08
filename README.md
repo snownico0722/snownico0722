@@ -63,11 +63,10 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <strong><a href="https://github.com/snownico0722/Ahk2Exe">Ahk2Exe ↗</a></strong>
       <p>AutoHotkey 脚本编译器的简体中文本地化。</p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
